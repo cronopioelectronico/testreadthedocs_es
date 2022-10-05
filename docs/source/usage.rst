@@ -1,9 +1,9 @@
-Usage
-=====
+Casos de uso
+============
 
 .. _installation:
 
-Installation
+Munich
 ------------
 
 To use Lumache, first install it using pip:
@@ -12,7 +12,7 @@ To use Lumache, first install it using pip:
 
    (.venv) $ pip install lumache
 
-Creating recipes
+Madrid
 ----------------
 
 To retrieve a list of random ingredients,
